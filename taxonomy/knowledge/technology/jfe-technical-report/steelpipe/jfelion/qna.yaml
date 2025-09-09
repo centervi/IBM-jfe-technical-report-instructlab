@@ -68,7 +68,7 @@ seed_examples:
       - question: JFELION®はCALⅣに合格していますが、これは何を意味しますか？
         answer: CALは接続性能評価の難易度を示し、ⅠからⅣまでのレベルがあり、JFELION®が合格したCALⅣは最も厳しい条件をクリアしたことを意味し、最高性能のねじ継手であることを示しています。
 document:
-  repo:
-  commit:
+  repo: https://github.com/centervi/IBM-jfe-technical-report-instructlab.git
+  commit: c82359695021c0a5a73cc625ea643e2411995ab8
   patterns:
-    -
+    - 054-18.md

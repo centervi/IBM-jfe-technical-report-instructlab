@@ -1,4 +1,4 @@
-created_by:
+created_by: tomoki nakamura
 version: 3
 domain: 鉄鋼
 document_outline: 鉄鋼業における先進技術や、環境・エネルギー、磁性材料、IT改革など多岐にわたるテーマを特集したJFE技報における、JFEスチールでの鋼管事業の取り組み
@@ -84,7 +84,7 @@ seed_examples:
       - question: SSCが特に問題となる理由は何ですか？
         answer: SSCは鋼材の亀裂や破損を引き起こす可能性があり、油井管の信頼性と安全性に直接影響を及ぼすため特に問題視されています。
 document:
-  repo:
-  commit:
+  repo: https://github.com/centervi/IBM-jfe-technical-report-instructlab.git
+  commit: c82359695021c0a5a73cc625ea643e2411995ab8
   patterns:
-    -
+    - 054-17.md

@@ -73,7 +73,7 @@ seed_examples:
       - question: ガス生産を模擬した気密試験でJFERABBIT®はどのように評価されましたか？
         answer: JFERABBIT®はISO13679:2002 CALⅡ TS-Bに基づく気密試験において、規定の荷重条件下でも漏れは発生せず、十分な気密性能が確認されました。
 document:
-  repo:
-  commit:
+  repo: https://github.com/centervi/IBM-jfe-technical-report-instructlab.git
+  commit: c82359695021c0a5a73cc625ea643e2411995ab8
   patterns:
-    -
+    - 054-19.md
